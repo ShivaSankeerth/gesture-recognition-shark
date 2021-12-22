@@ -1,6 +1,5 @@
-# gesture-recognition-shark
+# Gesture Recognition using SHARK2 Algorithm
 
-# Gesture Recognition
 ![Gesture-Recognition](https://rmodi6.github.io/images/gesture-recognition.gif)  
 
 Recognizing swipe gestures on a touchscreen keyboard using the 
